@@ -1,0 +1,8 @@
+provider:
+  name: aws
+  runtime: python3.10
+
+functions:
+  hello:
+    handler: hadler.hello
+  
